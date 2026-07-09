@@ -1,0 +1,20 @@
+{
+  "id": "journal-pin-tool",
+  "title": "Journal Pin Tool",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "You"
+    }
+  ],
+  "esmodules": [
+    "scripts/journal-pin-tool.js"
+  ],
+  "styles": [
+    "styles/journal-pin-tool.css"
+  ]
+}
